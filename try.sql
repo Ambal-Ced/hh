@@ -1,1 +1,2 @@
 --Create Database Mario;
+--Create table unknown_box(1Up,Mushroom);
